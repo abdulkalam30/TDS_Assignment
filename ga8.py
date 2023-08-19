@@ -13,6 +13,7 @@ def find_largest_number(a, b, c):
     return max(a, b, c)
 
 def main():
+    st.title("21f1003409_GA_8")
     st.title("Find the Largest Number")
 
     st.write("Enter three numbers:")
